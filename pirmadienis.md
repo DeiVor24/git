@@ -6,3 +6,9 @@
 3. Failas persikelia i 'staged changes' dali
 4. Parasome 'commit message'
 5. Spaudziame 'commit' mygtuka
+
+# Terminlas
+
+Ctrl + `  atidaro pati pirma terminala / arba tuo metu aktyvu
+
+Ctrl + shift + ` sukuria nauja terminala
